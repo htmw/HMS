@@ -2,46 +2,32 @@
 <h1 align="center">Hi 👋, I'm Sai Teja Koribilli</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<tbody><tr>
-    <td align="center">
-      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gq.com%2Fphotos%2F5c9d404a8d459e781a1333b5%2F3%3A4%2Fw_971%2Ch_1295%2Cc_limit%2FHow-to-Get-Jon-Snow%27s-Hair-game-of-thrones-gq-grooming.jpg&imgrefurl=https%3A%2F%2Fwww.gq.com%2Fstory%2Fhow-to-get-jon-snows-hair&tbnid=1gFkms9Nngfi0M&vet=12ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ..i&docid=2eNhdwYsPCaDnM&w=971&h=1295&q=Jon%20Snow%20jpg&ved=2ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ" width="240">
-      <br>
-      Sai Teja Koribilli
-    </td>
-    <td align="center">
-      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gq.com%2Fphotos%2F5c9d404a8d459e781a1333b5%2F3%3A4%2Fw_971%2Ch_1295%2Cc_limit%2FHow-to-Get-Jon-Snow%27s-Hair-game-of-thrones-gq-grooming.jpg&imgrefurl=https%3A%2F%2Fwww.gq.com%2Fstory%2Fhow-to-get-jon-snows-hair&tbnid=1gFkms9Nngfi0M&vet=12ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ..i&docid=2eNhdwYsPCaDnM&w=971&h=1295&q=Jon%20Snow%20jpg&ved=2ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ" width="240">
-      <br>
-      Jigar Shah
-    </td>
-    <td align="center">
-      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gq.com%2Fphotos%2F5c9d404a8d459e781a1333b5%2F3%3A4%2Fw_971%2Ch_1295%2Cc_limit%2FHow-to-Get-Jon-Snow%27s-Hair-game-of-thrones-gq-grooming.jpg&imgrefurl=https%3A%2F%2Fwww.gq.com%2Fstory%2Fhow-to-get-jon-snows-hair&tbnid=1gFkms9Nngfi0M&vet=12ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ..i&docid=2eNhdwYsPCaDnM&w=971&h=1295&q=Jon%20Snow%20jpg&ved=2ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ" width="240">
-      <br>
-      Monika Krishna
-    </td>
+***
+<h1 align="left">Team Members</h1>
+<table border="0" cellspacing="0" cellpadding="0" role="table">
+  <tbody><tr>
+    <td align="center" valign="center">
+<img src="https://github.com/SaiTejjj/HMS/blob/main/TeamPictures/Tej.jpg" width="250"><br>Sai Teja Koribilli (<a href="mailto:sk30386n@pace.edu">sk30386n@pace.edu</a>)</td>
+    <td align="center" valign="center">
+<img src="https://github.com/SaiTejjj/HMS/blob/main/TeamPictures/JIgarEdited.jpg" width="250"><br>Jigar J Shah (<a href="mailto:js19134n@pace.edu">js19134n@pace.edu</a>)</td>
+    <td align="center" valign="center">
+<img src="https://github.com/SaiTejjj/HMS/blob/main/TeamPictures/Kul.jpg" width="250"><br>Kuldeep Raj Kaluvala (<a href="mailto:kk63804n@pace.edu">kk63804n@pace.edu</a>)</td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gq.com%2Fphotos%2F5c9d404a8d459e781a1333b5%2F3%3A4%2Fw_971%2Ch_1295%2Cc_limit%2FHow-to-Get-Jon-Snow%27s-Hair-game-of-thrones-gq-grooming.jpg&imgrefurl=https%3A%2F%2Fwww.gq.com%2Fstory%2Fhow-to-get-jon-snows-hair&tbnid=1gFkms9Nngfi0M&vet=12ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ..i&docid=2eNhdwYsPCaDnM&w=971&h=1295&q=Jon%20Snow%20jpg&ved=2ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ" width="240">
-      <br>
-      Kuldeep Yadav
-    </td>
-    <td align="center">
-      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gq.com%2Fphotos%2F5c9d404a8d459e781a1333b5%2F3%3A4%2Fw_971%2Ch_1295%2Cc_limit%2FHow-to-Get-Jon-Snow%27s-Hair-game-of-thrones-gq-grooming.jpg&imgrefurl=https%3A%2F%2Fwww.gq.com%2Fstory%2Fhow-to-get-jon-snows-hair&tbnid=1gFkms9Nngfi0M&vet=12ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ..i&docid=2eNhdwYsPCaDnM&w=971&h=1295&q=Jon%20Snow%20jpg&ved=2ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ" width="235">
-      <br>
-      Nikhil
-    </td>
-    <td align="center">
-      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gq.com%2Fphotos%2F5c9d404a8d459e781a1333b5%2F3%3A4%2Fw_971%2Ch_1295%2Cc_limit%2FHow-to-Get-Jon-Snow%27s-Hair-game-of-thrones-gq-grooming.jpg&imgrefurl=https%3A%2F%2Fwww.gq.com%2Fstory%2Fhow-to-get-jon-snows-hair&tbnid=1gFkms9Nngfi0M&vet=12ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ..i&docid=2eNhdwYsPCaDnM&w=971&h=1295&q=Jon%20Snow%20jpg&ved=2ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ" width="240">
-      <br>
-      Shivansh Tomar
-    </td>
-    <td align="center">
-      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gq.com%2Fphotos%2F5c9d404a8d459e781a1333b5%2F3%3A4%2Fw_971%2Ch_1295%2Cc_limit%2FHow-to-Get-Jon-Snow%27s-Hair-game-of-thrones-gq-grooming.jpg&imgrefurl=https%3A%2F%2Fwww.gq.com%2Fstory%2Fhow-to-get-jon-snows-hair&tbnid=1gFkms9Nngfi0M&vet=12ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ..i&docid=2eNhdwYsPCaDnM&w=971&h=1295&q=Jon%20Snow%20jpg&ved=2ahUKEwiOje-Eztb6AhVrrHIEHf2oBRAQMygBegUIARC5AQ" width="240">
-      <br>
-      Bindu Vali...
-    </td>
+    <td align="center" valign="center">
+<img src="https://github.com/SaiTejjj/HMS/blob/main/TeamPictures/monica.jpg" width="250"><br>Mounika Thalla<br>(<a href="mailto:mt2994n@pace.edu">mt2994n@pace.edu</a>)</td>
+    <td align="center" valign="center">
+<img src="https://github.com/SaiTejjj/HMS/blob/main/TeamPictures/Nikki.jpg" width="250"><br>Sai Nikhil Kesireddy (<a href="mailto:sk65032n@pace.edu">sk65032n@pace.edu</a>)</td>
+<td align="center" valign="center">
+<img src="https://github.com/SaiTejjj/HMS/blob/main/TeamPictures/Bindu.jpg" width="250"><br>Bindhu Valishetti(<a href="mailto:bv91897n@pace.edu">bv91897n@pace.edu</a>)</td>
   </tr>
-</tbody>
+<tr>
+    <td align="center" valign="center">
+<img src="https://github.com/SaiTejjj/HMS/blob/main/TeamPictures/Shiv.jpg" width="250"><br>Shivansh Tomar <br>(<a href="mailto:st37179p@pace.edu">st37179p@pace.edu</a>)</td>
+</tbody></table>
+
+
+***
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
